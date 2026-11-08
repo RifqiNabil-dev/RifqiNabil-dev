@@ -3,7 +3,7 @@
   
   <h4>IT Education Undergraduate • Website + Mobile Developer</h4>
 
-  <br>
+  <hr>
 
   <h3>🌐 Connect with Me</h3>
   <a href="mailto:alfathnabil26@gmail.com">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;" />
   </a>
 
-  <br><br>
+  <hr>
 
   <h3>💻 Tech Stack</h3>
   <div data-importer="techs">
@@ -42,7 +42,7 @@
     <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   </div>
 
-  <br><br>
+  <hr>
 
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifqiNabil-dev/RifqiNabil-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
