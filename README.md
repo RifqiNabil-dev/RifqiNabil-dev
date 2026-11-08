@@ -3,9 +3,8 @@
   
   <h4>IT Education Undergraduate • Website + Mobile Developer</h4>
 
-  <hr>
-
   <h3>🌐 Connect with Me</h3>
+    <hr>
   <a href="mailto:alfathnabil26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" />
   </a>
@@ -13,9 +12,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;" />
   </a>
 
-  <hr>
-
   <h3>💻 Tech Stack</h3>
+    <hr>
   <div data-importer="techs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
@@ -41,8 +39,6 @@
     <img width="12" />
     <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   </div>
-
-  <hr>
 
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifqiNabil-dev/RifqiNabil-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
