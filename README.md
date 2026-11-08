@@ -30,6 +30,7 @@
     <img width="12" />
     <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
   </div>
+  <br>
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifqiNabil-dev/RifqiNabil-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RifqiNabil-dev/RifqiNabil-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
