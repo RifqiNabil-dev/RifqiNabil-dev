@@ -2,11 +2,9 @@
   <h1>Hi 👋 I'm Rifqi Nabil Al Fath</h1>
   <h4>IT Education Undergraduate • Website + Mobile Developer</h4>
   <h3>🌐 Connect with Me</h3>
-  <hr>
   <a href="mailto:alfathnabil26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" /></a>
   <a href="https://instagram.com/n4bil_alfath"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;" /></a>
   <h3>💻 Tech Stack</h3>
-  <hr>
   <div data-importer="techs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img width="12" />
