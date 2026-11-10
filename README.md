@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋 I'm Rifqi Nabil Al Fathh</h1>
+  <h1>Hi 👋 I'm Rifqi Nabil Al Fath</h1>
   <h4>IT Education Undergraduate • Website + Mobile Developer</h4>
   <h3>🌐 Connect with Me</h3>
   <a href="mailto:alfathnabil26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" /></a>
